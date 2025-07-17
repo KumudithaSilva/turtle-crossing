@@ -17,7 +17,7 @@ class CarManager:
             new_car = Turtle()
             new_car.color(random.choice(COLORS))
             new_car.penup()
-            new_car.shape("square")
+            new_car.shape("car.gif")
             new_car.shapesize(stretch_wid=1, stretch_len=2)
             new_car_y = random.choice(list(range(200, -251, -60)))
             new_car.goto(300, new_car_y)
