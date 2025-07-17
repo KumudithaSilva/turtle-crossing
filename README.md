@@ -39,7 +39,7 @@ The project was developed incrementally to reflect best practices in modular sof
 
 Below are sample outputs of Turtle crossing Game:
 
-<img width="400" alt="pong_game" src="https://github.com/user-attachments/assets/e867646f-1d8c-437a-8a88-8ae11ca77c08" />
+<img width="400" alt="pong_game" src="https://github.com/user-attachments/assets/7e5ad734-0556-491f-85f3-ca35fc44a076"/>
 
 ---
 
@@ -72,7 +72,7 @@ Collision handling occurs during each iteration of the main game loop. The turtl
 
 ```python
 for car in car_manager.all_cars:
-    if player.distance(car) < 20:
+    if player.distance(car) < 25:
         game_is_on = False
         scoreboard.game_over()
 ```
