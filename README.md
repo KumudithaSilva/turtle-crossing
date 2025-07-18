@@ -39,7 +39,7 @@ The project was developed incrementally to reflect best practices in modular sof
 
 Below are sample outputs of Turtle crossing Game:
 
-<img width="400" alt="pong_game" src="https://github.com/user-attachments/assets/7e5ad734-0556-491f-85f3-ca35fc44a076"/>
+<img width="400" alt="pong_game" src="https://github.com/user-attachments/assets/ce5a71f7-2d7e-4ea4-88c6-01bac6725b93"/>
 
 ---
 
